@@ -1,6 +1,6 @@
-*/Write a program in CUDA whichperfonns convolution operation on onedimensional input
+/*Write a program in CUDA whichperfonns convolution operation on onedimensional input
 aimyN of size width using a mask anay M of size mask_width to produce the resultant one
-dimensional airny P of size width/*
+dimensional airny P of size width*/
 
 
 
