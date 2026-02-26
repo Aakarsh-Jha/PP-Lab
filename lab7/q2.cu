@@ -1,3 +1,13 @@
+/*2. Write a CUDA program that reads a string § and produces the string RS as follows:
+Input string §: PCAP
+Output string RS: PCAPPCAPCP
+Note: Each work item copies required number of characters from S in RS.*/
+
+
+
+
+
+
 #include <stdio.h>
 #include <string.h>
 #include <cuda_runtime.h>
