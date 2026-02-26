@@ -1,3 +1,16 @@
+/*3) Write a CUDA program which reads a string Sin and produces an output string T as shown
+below.
+Input:
+Sin: “Hai”
+Ouput:
+T: “Haait “
+Note:Every thread stores a character from input string Sin, required number of times into
+output string*/
+
+
+
+
+
 #include <stdio.h>
 #include <string.h>
 #include <cuda_runtime.h>
