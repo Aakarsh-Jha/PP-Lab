@@ -1,3 +1,12 @@
+*/Write a program in CUDA whichperfonns convolution operation on onedimensional input
+aimyN of size width using a mask anay M of size mask_width to produce the resultant one
+dimensional airny P of size width/*
+
+
+
+
+
+
 #include "cuda_runtime.h"
 #include "device_launch_parameters.h"
 #include <stdio.h>
