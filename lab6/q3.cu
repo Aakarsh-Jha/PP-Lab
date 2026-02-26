@@ -1,3 +1,9 @@
+/*Write a program in CUDA to perforn odd even transposition soryt in parallel.*/
+
+
+
+
+
 #include "cuda_runtime.h"
 #include "device_launch_parameters.h"
 #include <stdio.h>
