@@ -1,3 +1,8 @@
+/*Write a CUDA program which takes N binary numbers as input and stores the one's
+complement of each element in another array in parallel*/
+
+
+
 #include "cuda_runtime.h"
 #include "device_launch_parameters.h"
 #include <stdio.h>
