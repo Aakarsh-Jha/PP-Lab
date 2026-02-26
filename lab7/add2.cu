@@ -1,3 +1,16 @@
+/*2) Write a CUDA program that takes a string Sin as input and one integer value N and produces
+an output string , Sout, in parallel by concatenating input string Sin, N times as shown below.
+Input:
+Sin = “Hello”? N=3
+Ouput:
+Sout = “HelloHelloHello”
+Note: Every thread copies the same character from the Input string S, N times to the re-
+quired position.*/
+
+
+
+
+
 #include <stdio.h>
 #include <string.h>
 #include <cuda_runtime.h>
