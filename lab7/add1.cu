@@ -1,3 +1,10 @@
+/*1) Write a CUDA program which reads a string consisting of N words and reverse each word of
+it in parallel.*/
+
+
+
+
+
 #include <stdio.h>
 #include <string.h>
 #include <cuda_runtime.h>
