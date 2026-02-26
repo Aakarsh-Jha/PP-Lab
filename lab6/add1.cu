@@ -1,3 +1,10 @@
+/*Write a program in CUDA which takes N integers as input. It converts these integers into their
+corresponding octal values and stores the result in another array in parallel.*/
+
+
+
+
+
 #include "cuda_runtime.h"
 #include "device_launch_parameters.h"
 #include <stdio.h>
